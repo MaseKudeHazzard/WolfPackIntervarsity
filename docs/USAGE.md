@@ -33,8 +33,8 @@ Make sure you have python3.8 or later installed in machine
 // TODO: Link your demo video and PowerPoint here
 ```
 Check out the Demos: 
-- [Demo Video]
-- [Demo Presentation](../demo/demo.pptx)
+- [Demo Video](https://drive.google.com/file/d/1ikwNDODfNt9yoT7aQKTmLdqD8UcLJIs5/view?usp=sharing)
+- [Demo Presentation](https://docs.google.com/presentation/d/14vkkDTzmDZd153ErVkt4a9b269mgBUuU/edit?usp=sharing&ouid=102374674497713911167&rtpof=true&sd=true)
 
 ## 📌 Notes
 ``` c
